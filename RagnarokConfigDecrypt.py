@@ -96,3 +96,4 @@ f = open("config.json", "w")
 f.write(dec_config)
 f.close()
 print("[-] saved in: config.json")
+# =^.^=
