@@ -1,4 +1,4 @@
-# Ragnarok
+# Ragnarok Configuration Decrypt
 Ragnarok Ransomware Configuration Decrypter
 
 ## Usage
